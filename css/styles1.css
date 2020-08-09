@@ -1,0 +1,187 @@
+body{
+
+  font-family: "Montserrat";
+}
+h1,h2,h3,h4,h5,h6{
+font-family:" Montserrat-bold";
+
+}
+h2{
+   font-family: "fantasy-bold";
+   font-size: 3rem;
+   line-height: 1.5;
+ }
+
+ h3{
+   font-family: "Montserrat-bold";
+   font-size: 1.5rem;
+ }
+
+ p{
+   color: #8f8f8f;
+ }
+
+#title{
+  background-color: #ff4c68;
+color: #fff;
+text-align:left;
+}
+.navbar-brand{
+
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.navbar{
+  padding:0 0 4.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link {
+  font-size:1.2rem;
+font-family: "Montserrat-light";
+}
+.Download-button{
+  margin: 5% 3% 5% 0
+}
+.titel-image{
+  width: 60%;
+  transform: rotate(14deg);
+}
+
+#features{
+  background-color: #32e0c4;
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+.icon{
+  color: #e7305b;
+}
+.icon:hover{
+  color: #b6eb7a;
+}
+.big-heading{
+
+  font-family: "Montserrat-Black";
+font-size: 3.5rem;
+line-height: 1.5;
+}
+
+#testimonials{padding: 7% 15%;
+  text-align: center;
+background-color:#f7fbe1;
+color: #f37121;
+}
+
+.axe{width: 35%;
+border-radius: 25%;
+margin: 100px;
+}
+#press{
+background-color:#e7305b;
+text-align: center;
+margin: 3%;
+}
+.press-box{
+  width: 15%;
+  margin: 20px 20px 20px;
+
+   }
+.carousel-item{
+  padding: 7% 15%;
+  height: 1000px;
+  background-color: #c7b198;
+}
+.kbh-name{
+  font-family: "fantasy-bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+/* pricing section*/
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.price-text{
+font-size: 3rem;
+
+
+}
+.pricing-column{
+padding: 3% 2%;
+}
+/* cta section */
+#cta{
+  text-align: center;
+
+    background-color: #ff4c68;
+    padding: 7% 15%;
+color: #fff;
+}
+.cta-heading{
+
+  font-family: "fantasy";
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+}
+/* heading*/
+#footer{
+text-align: center;
+ margin: 0;
+padding: 7% 15%;
+background: #313131;
+text-align: center;
+}
+
+.container-fluid{
+  padding: 3% 15% 7%;
+
+}
+
+.box i{
+text-decoration: none;
+color: white;
+font-size: 40px;
+margin: 10px;
+
+width: 45px;
+height: 45px;
+justify-content: center;
+align-items: center;
+cursor: pointer;
+transition: 0.5s all;
+}
+.fb{
+background: #2980b9;}
+.tw{
+
+  background: #3498db;
+}
+.yt{
+
+  background: #e74c3c;
+}
+.wp{
+background: #27ae60;
+
+}
+.in{
+background: #fa26a0;
+
+}
+.box i :hover{
+
+  margin-top: -5px;
+}
+
+.fon-si{font-family: "Montserrat-Black";
+font-size: 3.5rem;
+line-height: 1.5;}
